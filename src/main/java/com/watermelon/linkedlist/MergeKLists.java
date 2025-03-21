@@ -1,7 +1,5 @@
 package com.watermelon.linkedlist;
 
-import java.util.ArrayList;
-
 /**
  * @author zhujiashuai
  * @date: 2024/2/20 14:50

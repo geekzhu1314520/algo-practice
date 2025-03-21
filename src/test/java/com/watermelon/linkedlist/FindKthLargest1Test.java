@@ -11,7 +11,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
  * @date: 2024/2/18 20:35
  * @description:
  */
-public class SolutionTest extends UnitTestBase {
+public class FindKthLargest1Test extends UnitTestBase {
 
     @Test
     public void reverseKGroup_case1() {
