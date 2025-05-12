@@ -15,7 +15,7 @@ public class CountBits {
      */
     public int[] countBits(int n) {
         // 创建长度为n+1的数组用于存储结果
-        int[] ans = new int[n + 1];n
+        int[] ans = new int[n + 1];
          // 遍历0到n的每个数
         for (int i = 0; i <= n; i++) {
             // 使用Integer.bitCount计算整数i的二进制表示中1的个数
